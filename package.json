@@ -1,0 +1,15 @@
+{
+	"name": "rtctunnel-localclient",
+	"version": "0.1.0",
+	"description": "Local Client for RTCTunnel",
+	"main": "main.js",
+	"dependencies": {},
+	"devDependencies": {
+		"electron": "^2.0.0-beta.1"
+	},
+	"scripts": {
+		"start": "electron ."
+	},
+	"author": "Caleb Doxsey <caleb@doxsey.net>",
+	"license": "MIT"
+}
